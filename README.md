@@ -5,3 +5,7 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/quicks
 
 #### 输梅派
 https://github.com/jxtxzzw/Microsoft-Hackathon-2019-Intelligent-Garbage-Classification-IoT-Edge-Solution
+
+
+#### faster  rcnn
+https://zhuanlan.zhihu.com/p/31426458
