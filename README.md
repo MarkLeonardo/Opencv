@@ -9,3 +9,4 @@ https://github.com/jxtxzzw/Microsoft-Hackathon-2019-Intelligent-Garbage-Classifi
 
 #### faster  rcnn
 https://zhuanlan.zhihu.com/p/31426458
+https://github.com/chenyuntc/simple-faster-rcnn-pytorch
